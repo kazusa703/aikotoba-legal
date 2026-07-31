@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "config_revision": "0703d4f2-f5cc-4c90-819a-199cab3f941b",
+  "published_at": "2026-07-31T11:17:54Z",
+  "ios": {
+    "legacy_write_policy": "allowed",
+    "minimum_legacy_write_build": 10,
+    "minimum_legacy_write_version": "2.2",
+    "legacy_restriction_expires_at": null
+  },
+  "round": {
+    "state": "unavailable",
+    "current_round_id": null,
+    "config_version": null
+  },
+  "ads": {
+    "home_banner_enabled": true,
+    "rollout_basis_points": 1000,
+    "rollout_revision": 1
+  }
+}
